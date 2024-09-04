@@ -2,3 +2,8 @@
 1-Chocomilk Frio
 2-Malteada de oreo
 3-Michelada nacota con gomitas
+#Comida 
+1-Barbacoa
+2-Birria
+3-Pozole 
+4-Una cubanita para conectarla 
